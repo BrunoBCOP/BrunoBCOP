@@ -102,7 +102,8 @@
 
 <div>
 <img align="right" alt="Detalhes do GitHub" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark "/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoBCOP&theme=github_dark "/> -->
+<!--- 
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoBCOP&theme=github_dark "/> -->
 <img alt="Estatísticas do GitHub" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoBCOP&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoBCOP&theme=github_dark"/ >
 </div>
