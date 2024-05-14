@@ -96,28 +96,15 @@
 
 -----
 
------
-
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>Estatísticas do GitHub:
 
 <div>
-<img align="right" alt="Detalhes do GitHub" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark "/>
-<!--- 
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoBCOP&theme=github_dark "/> -->
+<img align="right" alt="Detalhes do GitHub" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoBCOP&theme=github_dark "/> 
+ 
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoBCOP&theme=github_dark "/>
 <img alt="Estatísticas do GitHub" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoBCOP&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoBCOP&theme=github_dark"/ >
+
 </div>
 
 -----
------
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>Estatísticas do GitHub:
-
-<div>
-<img align="right" alt="Detalhes do GitHub" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark "/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark "/> -->
-<img alt="Estatísticas do GitHub" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/ >
-</div>
-
------
