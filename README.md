@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/BrunoBCOP/BrunoBCOP/tree/main/img"/>
+<img align="center" alt="Header" src="https://github.com/BrunoBCOP/BrunoBCOP/blob/main/img/headertech.jpg"/>
 </div>
 
 -----
